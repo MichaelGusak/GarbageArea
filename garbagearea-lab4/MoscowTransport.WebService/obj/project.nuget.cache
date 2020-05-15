@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOACOJ+3sXSm5Uot6mbPKw6wtAEv4HFEFI+NO4WqiuqEHwSfM3KsYFMS3Q+zRBbjJJq+1xg6yNf0XTT4DwPJqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Krenos\\Desktop\\ООП\\Project\\garbagearea-lab4\\MoscowTransport.WebService\\GarbageArea.WebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krenos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
